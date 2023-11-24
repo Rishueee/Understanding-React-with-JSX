@@ -1,0 +1,11 @@
+/* add your styles here */
+h1{
+    text-align: center;
+}
+
+.image img{
+    width: 550px;
+    height:500px ;
+    margin-left: 50px;
+
+}
